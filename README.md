@@ -1,5 +1,5 @@
 # tgd_powercalcs
-Code in support of the manuscript 'Statistical reasons to include transgender and gender diverse sex variables in health research'.
+Code in support of the manuscript 'A statistical thought experiment on the inclusion of intersex, transgender and gender diverse sex variables in health research'.
 
 This repository contains two scripts:
 
